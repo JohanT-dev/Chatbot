@@ -1,0 +1,15 @@
+section{
+    background-color:yellow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+}
+footer{
+    background-color:yellow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    align-content: center;
+}
